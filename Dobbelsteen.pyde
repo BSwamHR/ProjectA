@@ -52,12 +52,3 @@ def draw():
             ellipse(35,65,10,10)
             ellipse(65,35,10,10)
             ellipse(65,65,10,10)
-
-'''
-turn_count = 0
-global_turn_count = 0
-players = (number of players)
-
-if turn_count % players == 0:
-    global_turn_count += 1
-'''
