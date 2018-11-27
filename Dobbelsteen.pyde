@@ -29,6 +29,7 @@ def draw():
     text('Rolling...',7,55)
     fill(255,255,255)
     background(180,180,180)
+    rect(25,25,50,50)
     if mousePressed and 25 < mouseX < 75 and 25 < mouseY < 75:
         if number == 1:
             rect(25,25,50,50)
