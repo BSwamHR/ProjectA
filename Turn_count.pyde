@@ -1,3 +1,5 @@
+# weet niet of het werkt, maar dit had ik bedacht
+
 turn_count = 0
 global_turn_count = 0
 players = #number of players
